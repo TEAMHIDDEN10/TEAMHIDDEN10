@@ -1,12 +1,9 @@
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F71313&width=435&lines=WELCOME+TO+TEAM+HIDDEN" alt="Typing SVG" /></a>
 
-<h1 align="center">Hi 👋, I'm Mr.Hidden</h1>
+<h1 align="center">TEAM HIDDEN</h1>
 <h3 align="center">Bangladeshi TEAM</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=hacking+animation&tbm=isch&tbs=itp:animated&client=ms-android-walton&prmd=ivn&hl=en&sa=X&ved=2ahUKEwj65Z6Vq437AhXkjtgFHdPZAgAQ2p8EegQIARAD&biw=360&bih=710#imgrc=QnlO8WrOgVnmHM"
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=hacking+animation&client=ms-android-walton&prmd=ivn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiVp5WUq437AhX0-HMBHTcGDJkQ_AUoAXoECAEQAQ&biw=360&bih=710&dpr=3#imgrc=zy06BoRJLURdJM"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teamhidden10&label=Profile%20views&color=0e75b6&style=flat" alt="teamhidden10" /> </p>
 
