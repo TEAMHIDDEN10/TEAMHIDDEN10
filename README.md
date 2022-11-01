@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0D32F7&width=435&lines=WELCOME+TO+TEAM+HIDDEN+ZONE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0D32F7&width=435&lines=WELCOME+TO+TEAM+HIDDEN" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70505&width=435&lines=It%E2%80%99s+Bangladeshi+team" alt="Typing SVG" /></a>
 
